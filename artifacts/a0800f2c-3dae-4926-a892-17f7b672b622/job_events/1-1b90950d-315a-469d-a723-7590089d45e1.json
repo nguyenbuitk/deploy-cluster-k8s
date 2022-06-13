@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "1b90950d-315a-469d-a723-7590089d45e1", "counter": 1, "stdout": "\u001b[0;31mERROR! the playbook: ./ovng/playbooks/main-setup-cluster.yml could not be found\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "a0800f2c-3dae-4926-a892-17f7b672b622"}
